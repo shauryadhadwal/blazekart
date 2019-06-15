@@ -6,11 +6,11 @@ An Ecommerce Site Template.
 
 ## Features
 
-Payments
-Order Tracking
-Admin Page
-Authentication
-Recommendation System
+* Payments
+* Order Tracking
+* Admin Page
+* Authentication
+* Recommendation System
 
 
 
